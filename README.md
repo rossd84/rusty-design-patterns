@@ -16,6 +16,12 @@ Hey there! Welcome to my personal playground for learning Rust and diving into d
 
 **My Notes**: The project showcases a car starting system simplified with a facade.
 
+### Factory Design Pattern
+
+**Project Folder** `factory`
+
+**My Notes**: This uses the example of shapes to make a factory. The shapes are constructed seperately and then the ShapeFactory builds them when they are needed.
+
 ### Singleton Design Pattern
 
 **Project Folder**: `singleton`
